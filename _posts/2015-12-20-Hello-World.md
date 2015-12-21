@@ -3,8 +3,6 @@ layout: post
 title: Hello World!
 ---
 
-# Hello World!
-
 Hi there!  
 
 I'm Ky-Cuong, a computer science (CS) major at UCLA
