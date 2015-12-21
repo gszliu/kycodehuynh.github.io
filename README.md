@@ -1,4 +1,4 @@
-w# KyCode
+# KyCode
 
 This is the GitHub repo that hosts my personal site: [kycode.me](http://kycode.me).
 
