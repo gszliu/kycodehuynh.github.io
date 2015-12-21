@@ -12,5 +12,5 @@ a Web Developer with Daily Bruin Online.
 
 ### Contact me
 
-You can drop me a line at [email](mailto:kycuonghuynh@ucla.edu), encrypted 
+You can drop me a line via [email](mailto:kycuonghuynh@ucla.edu), encrypted 
 using my [PGP key](/PGP.txt) if needed. 
