@@ -5,4 +5,9 @@ permalink: /about/
 ---
 
 I'm Ky-Cuong, a 3rd year computer science student at UCLA. Currently, I work as
-a Web Developer with Daily Bruin Online.
+a Web Developer with [Daily Bruin Online](http://dailybruin.com).
+
+Links to my: 
+
+* [GitHub](https://github.com/KyCodeHuynh)
+* [LinkedIn](https://www.linkedin.com/in/kycuong)
