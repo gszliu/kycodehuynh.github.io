@@ -16,4 +16,4 @@ Links to my:
 
 ## Licensing of Blog Content
 
-See the [README](https://github.com/KyCodeHuynh/kycodehuynh.github.io) for the GitHub repo of this site.
+See the [README](https://github.com/KyCodeHuynh/kycodehuynh.github.io/blob/master/README.md) for the GitHub repo of this site.
