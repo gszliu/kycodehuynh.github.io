@@ -24,12 +24,12 @@ All rights are reserved for content in `_posts`.
 [fair use](http://fairuse.stanford.edu/overview/fair-use/what-is-fair-use/). 
 In essence, you're free to quote a post (with attribution), but not copy it
 wholesale and/or use it as the basis for your own. 
-**Exception**: all code in any posts are under the terms of the
+**Exception**: all code in any posts is under the terms of the
 [MIT License](https://opensource.org/licenses/MIT), unless otherwise
 noted. This is meant to make it easy for people to use code snippets
 in practice and production without worry.
 
-All content in `images` is under the terms of the Creative Commons
+All content in `images` is under the terms of the
 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 license, unless otherwise noted. 
 This is meant to make it easy for you to share screenshots

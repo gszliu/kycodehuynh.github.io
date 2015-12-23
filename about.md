@@ -12,3 +12,8 @@ Links to my:
 * [Resume](/Ky-Cuong.pdf)
 * [GitHub](https://github.com/KyCodeHuynh)
 * [LinkedIn](https://www.linkedin.com/in/kycuong)
+
+
+## Licensing of Blog Content
+
+See the [README](https://github.com/KyCodeHuynh/kycodehuynh.github.io) for the GitHub repo of this site.
