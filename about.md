@@ -9,5 +9,6 @@ a Web Developer with [Daily Bruin Online](http://dailybruin.com).
 
 Links to my: 
 
+* [Resume](/Ky-Cuong.pdf)
 * [GitHub](https://github.com/KyCodeHuynh)
 * [LinkedIn](https://www.linkedin.com/in/kycuong)
