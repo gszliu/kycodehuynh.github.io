@@ -12,7 +12,7 @@ package for Sublime Text. The resulting TOCs are not perfect
 and I'm sorry that the automatic linking did not work. For now, 
 the best way to navigate these notes is to find the topic of 
 interest, and then search for it with with a regular 
-<kbd>Command + F</kbd> (OS X) or <kbd>Control + F</kbd> (Linux
+<kbd>Command+F</kbd> (OS X) or <kbd>Control+F</kbd> (Linux
 and Windows). 
 
 My plan is to add a scrollspy to them in the future, 
