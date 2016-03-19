@@ -13,7 +13,7 @@ fingerprint is:
 ```
 
 Its short key ID (which is [not enough by itself](https://security.stackexchange.com/questions/74009/what-is-an-openpgp-key-id-collision) for verification)
-is `A9217457` and is a [4096-bit](https://xkcd.com/538/) 
+is `A9217457`. The key itself is a [4096-bit](https://xkcd.com/538/) 
 [RSA](https://xkcd.com/343/) key. 
 
 You can also find me on [Twitter](https://twitter.com/KyCodeHuynh).
