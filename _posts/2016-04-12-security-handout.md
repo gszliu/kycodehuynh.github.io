@@ -156,6 +156,8 @@ Worried about the NSA? Don't worry, they know.
 
 ### Secure Server Configuration
 
+* [Hacksplaining](https://www.hacksplaining.com/) for developers
+
 * [7 Security Measures to Protect Your Servers](https://www.digitalocean.com/community/tutorials/7-security-measures-to-protect-your-servers)
 
 
