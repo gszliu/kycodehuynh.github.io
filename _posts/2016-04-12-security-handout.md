@@ -14,10 +14,10 @@ covered and not covered. This guide will be refined over time.
 A great baseline level of security can be achieved by: 
 
 1. Educating yourself on the dangers facing you
-2. Keep all of your software up-to-date (automatic is best) 
-3. Use multi-factor authentication
-4. Back-up everything! 
-5. Use a password manager! 
+2. Keeping all of your software up-to-date (automatic is best) 
+3. Using multi-factor authentication
+4. Backing up everything! 
+5. Using a password manager! 
 
 
 ## The Threats 
@@ -153,17 +153,32 @@ Worried about the NSA? Don't worry, they know.
 * [WOT](https://www.mywot.com)
 * [HTTPS Everywhere](https://www.eff.org/HTTPS-EVERYWHERE)
 
+Note: the fewer extensions you have, the less of an attack surface 
+exposed by your web browser.
+
 
 ### Secure Server Configuration
 
-* [Hacksplaining](https://www.hacksplaining.com/) for developers
+* [Hacksplaining](https://www.hacksplaining.com/) for developers is a wonderful
+  set of interactive tutorials that explain common application vulnerabilities
+  like session hijacking, SQL injection, clickjacking, cross-site scripting
+  (XSS), and more. It's totally free and should be part of any developer's 
+  education.
 
-* [7 Security Measures to Protect Your Servers](https://www.digitalocean.com/community/tutorials/7-security-measures-to-protect-your-servers)
+* [7 Security Measures to Protect Your
+  Servers](https://www.digitalocean.com/community/tutorials/7-security-
+  measures-to-protect-your-servers) is a great place to start for learning how
+  to lock down your Linux boxes (as they're often called)
 
 
 ### Secure Router Configuration
 
-* [Know Your Network: The Complete Guide](http://lifehacker.com/5833254/know-your-network-the-complete-guide)
+* [Know Your Network: The Complete Guide](http://lifehacker.com/5833254/know-your-network-the-complete-guide) is *the* guide you've been waiting for 
+learning how to set-up and configure your person router. 
+
+* If you don't trust consumer-grade routers and would rather build your
+  own from scratch, Ars Technica has you covered with this 
+  [step-by-step guide](http://arstechnica.com/gadgets/2016/01/numbers-dont-lie-its-time-to-build-your-own-router/).
 
 
 
