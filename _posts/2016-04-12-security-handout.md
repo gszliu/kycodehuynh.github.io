@@ -136,6 +136,8 @@ Worried about the NSA? Don't worry, they know.
 
 * [Surveillance Self-Defense](https://ssd.eff.org)
 
+* [Going dark: online privacy and anonymity for normal people](https://www.troyhunt.com/going-dark-online-privacy-and-anonymity-for-normal-people/)
+
 * [Signal](https://whispersystems.org) (free mobile app for encrypted messaging and calls)
 
 * [WhatsApp](https://www.whatsapp.com/security/) now includes end-to-end encryption as well
