@@ -4,12 +4,12 @@ title: Learning Through Steady Escalation
 ---
 
 I am now ~3 weeks into my internship with [AppFolio](http://www.appfolio.com)
-and it has been an absolute blast. The company loves its interns (as well
+and it has been an absolute blast. Learning how to learn better has been a big
+part of that. It also helps that the company loves its interns (as well
 as its [employees in general](http://www.appfolioinc.com/jobs), earning 
-recognition as one of the [Best Places to Work in 2016](http://www.appfolioinc.com/news/appfolio-wins-best-places-to-work-award). 
+recognition as one of the [Best Places to Work in 2016](http://www.appfolioinc.com/news/appfolio-wins-best-places-to-work-award)). 
 
-As an intern, I especially appreciate being able to learn from experienced
-engineers that bring years of real-world experience. One of the tech leads
+During my first week, one of the tech leads
 taught me the approach of *learning through steady escalation*. 
 The idea is simple, but not always discovered or taught before internships: 
 
