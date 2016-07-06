@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 ---
 
-I'm Ky-Cuong, a 4th year computer science student at UCLA. Currently, I work as
-a software engineering intern with [AppFolio](http://www.appfolioinc.com/).
+I'm Ky-Cuong, a 4th year computer science student at UCLA and a
+software engineering intern with [AppFolio](http://www.appfolioinc.com/).
 My current interest is full-stack web development, where I have experience in
 Ruby on Rails, and a JavaScript stack with the Daily Bruin. Before that, I
 programmed the Arduino-based electronics payload for UCLA Rocket Project and
