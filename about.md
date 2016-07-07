@@ -14,7 +14,7 @@ programmed the Arduino-based electronics payload for UCLA Rocket Project and
 handled the mass-deployment of hundreds of Macs and iPads for the 
 [UCLA Lab School](http://www.labschool.ucla.edu/).
 
-Outside of work, I enjoy paying it forward as an ACM Hack officer. This fall, I will lead Hack School, a quarter-long bootcamp in full-stack JavaScript. I'll also continue to organize capture the flag (CTF) competitions to train people in computer security. To relax, I can usually be found running with
+Outside of work, I enjoy paying it forward as an ACM Hack officer. This fall, I will lead Hack School, a quarter-long bootcamp in full-stack JavaScript. I'll also continue to organize [capture the flag (CTF)](https://github.com/EaterOA/lug-acm-ctf-sp2016) competitions to train people in computer security. To relax, I can usually be found running with
 [Bruinrunners](https://www.facebook.com/Bruinrunners) or discussing 
 the latest Sherlock episode.
 
