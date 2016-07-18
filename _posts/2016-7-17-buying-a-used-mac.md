@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Safety Precautions When Buying a Used Mac
+title: Advice for Buying a Used Mac
 ---
 
 Recently, someone on [Hackathon Hackers](https://www.facebook.com/groups/hackathonhackers/) asked for advice on buying a 2013 MacBook Air. 
