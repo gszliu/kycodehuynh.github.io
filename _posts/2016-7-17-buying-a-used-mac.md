@@ -83,7 +83,7 @@ negotiating advantage to disclose them now, openly and honestly.
 not currently enabled. If it is and the current "owner" cannot disable it, you
 should assume the Mac is stolen. If there are any seemingly legitimate excuses for this, delay the sale until the concerns are completely resolved. 
 
-* [Check the laptop's serial number](https://checkcoverage.apple.com/). This lets you view warranty status, model information, etc. If you're being sold a fake (which is [more common with iPhones](https://www.yahoo.com/tech/too-good-to-be-true-how-to-spot-a-fake-iphone-125957905399.html) than Macs), you'll find out there, as
+* [Check the laptop's serial number](https://checkcoverage.apple.com/). This lets you view warranty status, model information, and more. If you're being sold a fake (which is [more common with iPhones](https://www.yahoo.com/tech/too-good-to-be-true-how-to-spot-a-fake-iphone-125957905399.html) than Macs), you'll find out there, as
 the Mac simply won't be listed altogether.  
 
 * Check that there is no [firmware password](https://support.apple.com/en-us/HT204455) set. You can check this by trying to enter Recovery Mode (Cmd + R during boot-up). Here it's more plausible that they've forgotten the password, 
