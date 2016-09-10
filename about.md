@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I'm Ky-Cuong, a 4th year computer science student at 
+I'm Ky-Cuong ("key-coon"), a 4th year computer science student at 
 [UCLA](http://www.ucla.edu/) and a
 software engineering intern with [AppFolio](http://www.appfolioinc.com/).
 My current interest is full-stack web development, where I have experience in
