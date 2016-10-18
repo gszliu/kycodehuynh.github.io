@@ -1,83 +1,85 @@
-#
-# This file contains configuration flags to customize your site
-#
-
-# Name of your site (displayed in the header)
-name: Ky-Cuong Huynh
-
-# Short bio or description (displayed in the header)
-description: Software engineer (in-progress)
-
-# URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://avatars3.githubusercontent.com/u/4713937?v=3
-
-#
-# Flags below are optional
-#
-
-# Includes an icon in the footer for each username you enter
-footer-links:
-  dribbble:
-  email:
-  facebook:
-  flickr:
-  github: kycodehuynh
-  linkedin: kycuong
-  twitter: kycodehuynh
-  rss: feed # just type anything here for a working RSS icon
-  instagram:
-  pinterest:
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
-
-
-# Enter your Disqus shortname (not your username) to enable commenting on posts
-# You can find your shortname on the Settings page of your Disqus account
-disqus:
-
-# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics: UA-71659833-1
-
-# Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
-# Used for Sitemap.xml and your RSS feed
-url: https://kycode.me   # with the https protocol
-enforce_ssl: kycode.me   # without any protocol
-
-# If you're hosting your site at a Project repository on GitHub pages
-# (http://yourusername.github.io/repository-name)
-# and NOT your User repository (http://yourusername.github.io)
-# then add in the baseurl here, like this: "/repository-name"
-baseurl: "https://kycode.me"
-
-#
-# !! You don't need to change any of the configuration flags below !!
-#
-
-# Jekyll 3 now only supports Kramdown for Markdown
-kramdown:
-  # Use GitHub flavored markdown, including triple backtick fenced code blocks
-  input: GFM
-  # Jekyll 3 and GitHub Pages now only support rouge for syntax highlighting
-  syntax_highlighter: rouge
-  syntax_highlighter_opts:
-    # Use existing pygments syntax highlighting css
-    css_class: 'highlight'
+# SITE CONFIGURATION
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://kycode.me" # the base hostname & protocol for your site
+enforce_ssl: kycode.me # without any protocol
 
 permalink: /:title/
 
-# The release of Jekyll Now that you're using
-version: v1.1.0
+# THEME-SPECIFIC CONFIGURATION
+theme_settings:
+  # Meta
+  title: Ky-Cuong Huynh
+  avatar: avatar.png
+  gravatar: # Email MD5 hash
+  description: "Software engineer in-progress" # used by search engines
 
-# Set the Sass partials directory, as we're using @imports
+  # Header and footer text
+  header_text: # > to start a multi-line announcement
+  header_text_feature_image:
+  footer_text: >
+    Ad Astra Et Ultra
+    <br>
+    © Ky-Cuong Huynh 2016
+
+  # Icons
+  rss: false
+  email_address: # Full email address, e.g. "sam@example.com"
+  behance:
+  bitbucket:
+  dribbble:
+  facebook:
+  flickr:
+  github: "KyCodeHuynh"
+  google_plus:
+  instagram:
+  linkedin:  # Full URL
+  pinterest:
+  reddit:
+  soundcloud:
+  stack_exchange:  # Full URL
+  steam:
+  tumblr:
+  twitter: "KyCodeHuynh"
+  wordpress:
+  youtube:
+
+  # Scripts
+  google_analytics: UA-71659833-1 # Tracking ID, e.g. "UA-000000-01"
+  disqus_shortname:
+  katex: true # Enable if using math markup
+
+  # Localization strings
+  str_follow_on: "Follow on"
+  str_rss_follow: "Follow RSS feed"
+  str_email: "Email"
+  str_next: "Next"
+  str_prev: "Previous"
+  str_continue_reading: "Continue reading"
+
+  # Colours, typography and padding
+  # Open the "_sass > base" folder, and open "_variables.scss"
+  google_fonts: "Source+Sans+Pro:400,700,700italic,400italic"
+
+  # Post navigation
+  post_navigation: false
+
+# PAGINATION
+paginate: 5
+paginate_path: "blog/page:num"
+
+# BUILD SETTINGS
+markdown: kramdown
+highlighter: rouge
 sass:
-  style: :compressed # You might prefer to minify using :compressed
+  sass_dir: _sass
+  style: :compressed
+gems: [jekyll-paginate]
 
 # Use the following plug-ins
 gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
-  - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
   - jekyll-seo-tag # Automatically apply SEO optimization
+  - jekyll-paginate # Paginatation
 
 # Exclude these files from your production _site
 exclude:
