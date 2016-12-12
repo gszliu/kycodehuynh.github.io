@@ -4,9 +4,12 @@ title: Contact
 permalink: /contact/
 ---
 
-I am most easily reached by [email](mailto:kycuonghuynh@ucla.edu),
-encrypted using my [PGP key](/PGP.txt) if needed. My key's full
-fingerprint is: 
+I am most easily reached by [email](mailto:kycuonghuynh@ucla.edu).
+
+For more sensitive conversations (or for audio/video calls), 
+it's best to DM me on Twitter to ask for my [Signal](https://whispersystems.org/) or [WhatsApp](https://www.whatsapp.com/) number.
+Alternatively, you can also send me encrypted email using my 
+[PGP key](/PGP.txt). My key's full fingerprint is: 
 
 ```
 49C0 32E0 6BD9 71B5 B4A0  DFE1 F6EA A503 A921 7457
