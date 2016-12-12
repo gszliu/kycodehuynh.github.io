@@ -14,7 +14,10 @@ theme_settings:
   description: "Software engineer in-progress" # used by search engines
 
   # Header and footer text
-  header_text: # > to start a multi-line announcement
+  # > to start a multi-line announcement, lines follow on next line
+  header_text: >
+    I am extremely excited to announce that I'll be joining
+    <a href="https://stripe.com/">Stripe</a> as an Engineering Intern for Summer 2017!
   header_text_feature_image:
   footer_text: >
     Ad Astra Et Ultra
